@@ -1,7 +1,11 @@
 import Header from './components/Header';
 
 function App() {
-	return <Header />;
+	return (
+		<div className="d-flex flex-column">
+			<Header />
+		</div>
+	);
 }
 
 export default App;
