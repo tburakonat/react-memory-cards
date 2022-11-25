@@ -1,12 +1,14 @@
 import React from 'react';
 import starWarsLogo from './../images/star-wars-logo.png';
 
-const Header = () => {
+const Header = ({ currentScore, highScore }) => {
 	return (
-		<header className="d-flex flex-column align-items-center py-3" style={{ backgroundColor: 'black' }}>
+		<header className="d-flex flex-column align-items-center py-3">
 			<img src={starWarsLogo} alt="star wars logo" width="150px" />
 			<h1 className="text-white">Memory Game</h1>
-			<span className="text-white">Your Score: 5 | High Score: 9</span>
+			<span className="text-white">
+				Your Score: {currentScore} | High Score: {highScore}
+			</span>
 		</header>
 	);
 };
