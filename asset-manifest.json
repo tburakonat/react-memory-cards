@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-memory-cards/static/js/main.f6f88688.js",
+    "static/media/star-wars-logo.png": "/react-memory-cards/static/media/star-wars-logo.96f61f47f06d46314fd3.png",
+    "static/media/chewie.jpeg": "/react-memory-cards/static/media/chewie.bbf88e43470347c86bf5.jpeg",
+    "static/media/yoda.jpeg": "/react-memory-cards/static/media/yoda.4d186ca0d6e12abc28e5.jpeg",
+    "static/media/r2d2.jpeg": "/react-memory-cards/static/media/r2d2.573895e5afeaa17a9174.jpeg",
+    "static/media/c3po.jpeg": "/react-memory-cards/static/media/c3po.090cf72244e752816fd9.jpeg",
+    "static/media/anakin.jpeg": "/react-memory-cards/static/media/anakin.8e631cae99748cec47e4.jpeg",
+    "static/media/luke.jpeg": "/react-memory-cards/static/media/luke.1f20a3f4f8374f7ab17f.jpeg",
+    "static/media/obiwan.jpeg": "/react-memory-cards/static/media/obiwan.2d8bb06b294dcbd4ac2f.jpeg",
+    "static/media/maul.jpeg": "/react-memory-cards/static/media/maul.12020ff8dadffce90378.jpeg",
+    "static/media/vader.jpeg": "/react-memory-cards/static/media/vader.10cab3297006f1003a68.jpeg",
+    "index.html": "/react-memory-cards/index.html",
+    "main.f6f88688.js.map": "/react-memory-cards/static/js/main.f6f88688.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f6f88688.js"
+  ]
+}
